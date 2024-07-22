@@ -1,1 +1,1 @@
-This is my first project of this scale, which will help the organization nefteyuganskpromservice with the control of documents, driver information and will help optimize many processes in work, the program is under development
+Это мой первый проект такого масштаба, который поможет организации нефтеюганскпромсервис с контролем документов, информации водителей и поможет оптимизировать многие процессы в работе, программа находиться в разработке
